@@ -1,0 +1,18 @@
+.headbkg{
+background-image: url('../img/smeeti.jpg');
+background-size: cover;
+height: 500px;
+overflow:hidden;
+}
+.headtxt{
+position:relative;
+top:0%;
+}
+.maincnt{
+
+}
+.titre{display:none;}
+.midctn{
+  background-image:url('../img/wwwallpaper.jpg');
+  background-size:cover;
+}
